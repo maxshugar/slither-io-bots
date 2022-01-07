@@ -1,0 +1,22 @@
+{
+  "name": "slither_io_bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "colors": "^1.4.0",
+    "https-proxy-agent": "2.1.0",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.0",
+    "socks": "1.1.10",
+    "socks-proxy-agent": "3.0.1"
+  }
+}
